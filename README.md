@@ -24,8 +24,8 @@ border: 1px solid #ccc;
 </head>
 <body>
 <div class="puzzle-container">
-<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
-<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
+<img src="puzzle1_A.jpg" class="puzzle-piece" data-fit="true" />
+<img src="puzzle1_B.jpg class="puzzle-piece" data-fit="true" />
 <img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
 <img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
 <img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
