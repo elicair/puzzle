@@ -25,6 +25,20 @@ border: 1px solid #ccc;
 <body>
 <div class="puzzle-container">
 <img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
+<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
+<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
+<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
+<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
+<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
+<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
+<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
+<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
+<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
+<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
+<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
+<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
+<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
+<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
 <img src="images/puzzle2.png" class="puzzle-piece" data-fit="true" />
 <img src="images/puzzle3.png" class="puzzle-piece" data-fit="false" /> <!-- does not fit -->
 <!-- more pieces -->
