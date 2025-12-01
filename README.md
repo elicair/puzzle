@@ -27,8 +27,8 @@ border: 1px solid #ccc;
 <img src="![puzzle1_A](https://github.com/user-attachments/assets/fcf7ad8d-df2a-4fc9-81dd-19371ae0101d)
  class="puzzle-piece" data-fit="true" />
 <img src="puzzle1_B.jpg class="puzzle-piece" data-fit="true" />
-<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
-<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
+<img src="" class="puzzle-piece" data-fit="true" />
+<img src="puzzle1_A.jpg" class="puzzle-piece" data-fit="true" />
 <img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
 <img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
 <img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
