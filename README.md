@@ -24,24 +24,23 @@ border: 1px solid #ccc;
 </head>
 <body>
 <div class="puzzle-container">
-<img src="![puzzle1_A](https://github.com/user-attachments/assets/fcf7ad8d-df2a-4fc9-81dd-19371ae0101d)
- class="puzzle-piece" data-fit="true" />
-<img src="puzzle1_B.jpg class="puzzle-piece" data-fit="true" />
-<img src="" class="puzzle-piece" data-fit="true" />
-<img src="puzzle1_A.jpg" class="puzzle-piece" data-fit="true" />
-<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
-<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
-<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
-<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
-<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
-<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
-<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
-<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
-<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
-<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
-<img src="images/puzzle1.png" class="puzzle-piece" data-fit="true" />
-<img src="images/puzzle2.png" class="puzzle-piece" data-fit="true" />
-<img src="images/puzzle3.png" class="puzzle-piece" data-fit="false" /> <!-- does not fit -->
+<img src="puzzle1_A.jpg class="puzzle-piece" data-fit="true" />
+<img src="puzzle1_B.jpg" class="puzzle-piece" data-fit="true" />
+<img src="puzzle1_C.jpg" class="puzzle-piece" data-fit="true" />
+<img src="puzzle1_D.jpg" class="puzzle-piece" data-fit="true" />
+<img src="puzzle1_E.jpg" class="puzzle-piece" data-fit="true" />
+<img src="puzzle1_F.jpg" class="puzzle-piece" data-fit="true" />
+<img src="puzzle1_G.jpg" class="puzzle-piece" data-fit="true" />
+<img src="puzzle1_H.jpg" class="puzzle-piece" data-fit="true" />
+<img src="puzzle1_I.jpg" class="puzzle-piece" data-fit="true" />
+<img src="puzzle1_J.jpg" class="puzzle-piece" data-fit="true" />
+<img src="puzzle1_K.jpg" class="puzzle-piece" data-fit="true" />
+<img src="puzzle1_L.jpg" class="puzzle-piece" data-fit="true" />
+<img src="puzzle1_M.jpg" class="puzzle-piece" data-fit="true" />
+<img src="ipuzzle1_N.jpg" class="puzzle-piece" data-fit="true" />
+<img src="puzzle1_O.jpg" class="puzzle-piece" data-fit="true" />
+<img src="puzzle1_P.jpg" class="puzzle-piece" data-fit="true" />
+<img src="puzzle1_Q.jpg" class="puzzle-piece" data-fit="false" /> <!-- does not fit -->
 <!-- more pieces -->
 </div>
 
